@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="img/favicon.png" type="image/png">
+    <title>COVID-MAP</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <!-- Bootstrap CSS -->
+    <!-- main css -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.css') }}">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+    {% if title %}
+        <title>COVID-19 MAP - {{ title }}</title>
+    {% else %}
+        <title>COVID-19 MAP</title>
+    {% endif %}
+</head>
+<body>
+<h2>WORLD-WIDE COVID CASES</h2>
+<div class="col-md-15">
+<div class="content-section">
+    <div class="row">
+        <div class="col-xs-2">
+            <label>WORLD-WIDE COVID CASES</label>
+        </div>
+        <div class="col-md-15">
+            <div class="chart" id="pieplot">
+                <script>
+                    var graphs = {{plot | safe}};
+                    Plotly.plot('pieplot',graphs,{});
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
