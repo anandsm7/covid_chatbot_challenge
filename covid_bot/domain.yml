@@ -1,0 +1,144 @@
+slots:
+   country:
+      type: unfeaturized
+      auto_fill: true
+   state:
+      type: unfeaturized
+      auto_fill: true
+   person:
+      type: unfeaturized
+      auto_fill: true
+   phone:
+      type: unfeaturized
+      auto_fill: true
+   email:
+      type: unfeaturized
+      auto_fill: true
+   pin:
+      type: unfeaturized
+      auto_fill: true
+
+intents:
+   - covid_search
+   - prevention
+   - info
+   - affirm
+   - deny
+   - stop
+   - out_of_scope
+   - smalltalk.acquaintance
+   - smalltalk.age
+   - smalltalk.annoying
+   - smalltalk.answer_my_question
+   - smalltalk.bad
+   - smalltalk.be_clever
+   - smalltalk.beautiful
+   - smalltalk.birth_date
+   - smalltalk.boring
+   - smalltalk.boss
+   - smalltalk.busy
+   - smalltalk.chatbot
+   - smalltalk.clever
+   - smalltalk.crazy
+   - smalltalk.fired
+   - smalltalk.funny
+   - smalltalk.good
+   - smalltalk.happy
+   - smalltalk.hungry
+   - smalltalk.marry_user
+   - smalltalk.my_friend
+   - smalltalk.occupation
+   - smalltalk.origin
+   - smalltalk.ready
+   - smalltalk.real
+   - smalltalk.residence
+   - smalltalk.right
+   - smalltalk.yes
+   - smalltalk.sure
+   - smalltalk.talk_to_me
+   - smalltalk.there
+   - smalltalk.no_problem
+   - smalltalk.thank_you
+   - smalltalk.welcome
+   - smalltalk.well_done
+   - smalltalk.cancel
+   - smalltalk.no
+   - smalltalk.hold_on
+   - smalltalk.hug
+   - smalltalk.i_do_not_care
+   - smalltalk.sorry
+   - smalltalk.what_do_you_mean
+   - smalltalk.wrong
+   - smalltalk.ha_ha
+   - smalltalk.wow
+   - smalltalk.bye
+   - smalltalk.goodevening
+   - smalltalk.goodmorning
+   - smalltalk.goodnight
+   - smalltalk.hello
+   - smalltalk.how_are_you
+   - smalltalk.nice_to_meet_you
+   - smalltalk.nice_to_see_you
+   - smalltalk.nice_to_talk_to_you
+   - smalltalk.whatsup
+   - smalltalk.angry
+   - smalltalk.back
+   - smalltalk.bored
+   - smalltalk.can_not_sleep
+   - smalltalk.does_not_want_to_talk
+   - smalltalk.excited
+   - smalltalk.going_to_bed
+   - smalltalk.has_birthday
+   - smalltalk.here
+   - smalltalk.joking
+   - smalltalk.likes_agent
+   - smalltalk.lonely
+   - smalltalk.looks_like
+   - smalltalk.loves_agent
+   - smalltalk.misses_agent
+   - smalltalk.needs_advice
+   - smalltalk.sad
+   - smalltalk.sleepy
+   - smalltalk.testing_agent
+   - smalltalk.tired
+   - smalltalk.waits
+   - smalltalk.wants_to_see_agent_again
+   - smalltalk.wants_to_talk
+   - smalltalk.will_be_back
+
+templates:
+   utter_greet:
+    - text: "Hi there 😃, Welcome to COVID-19 helpline 🚑."
+   utter_ask_person:
+    - text: "May i know your full name please?"
+    - text: "Could you please tell me your full name"
+   utter_ask_phone:
+    - text: "Hi 🙋‍♂️.Could you please provide your phone number 📱"
+    - text: "Hi 🙋‍♂️.Can you provide your contact number 📱"
+   utter_ask_pin:
+    - text: "May i know your pin for upto date notification on COVID spread"
+    - text: "I will be needing your pin for upto date notification on COVID spread"       
+   utter_ask_email:
+    - text: "Almost done could you please provide your Email ID" 
+   utter_cheer_up:
+    - text: "Please Follow:"
+      image: "https://i.imgur.com/3H1hkNJ.png"
+   
+
+entities:
+   - country
+   - state
+   - phone
+   - email
+   - pin
+   - GPE
+   - PERSON
+
+actions:
+- action_faq
+- action_covid
+- fetch_info
+
+forms:
+   - detail_fetch
+   

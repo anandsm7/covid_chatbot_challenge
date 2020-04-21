@@ -1,0 +1,723 @@
+,country_name,total_cases,total_deaths,total_recovered,lat,long,text
+0,Andorra,673,33,169,42.546245,1.601554,"Country: Andorra
+ Total Case:673
+ Total Death:33
+ Total Recovered:169"
+1,Afghanistan,784,25,43,33.93911,67.709953,"Country: Afghanistan
+ Total Case:784
+ Total Death:25
+ Total Recovered:43"
+2,Anguilla,3,,1,18.220554,-63.068615,"Country: Anguilla
+ Total Case:3
+ Total Death:
+ Total Recovered:1"
+3,Albania,494,25,251,41.153332,20.168331,"Country: Albania
+ Total Case:494
+ Total Death:25
+ Total Recovered:251"
+4,Armenia,1111,17,297,40.069099,45.038189,"Country: Armenia
+ Total Case:1111
+ Total Death:17
+ Total Recovered:297"
+5,Angola,19,2,5,-11.202692,17.873887,"Country: Angola
+ Total Case:19
+ Total Death:2
+ Total Recovered:5"
+6,Argentina,2443,109,596,-38.416097,-63.616672,"Country: Argentina
+ Total Case:2443
+ Total Death:109
+ Total Recovered:596"
+7,Austria,14325,393,8098,47.516231,14.550072,"Country: Austria
+ Total Case:14325
+ Total Death:393
+ Total Recovered:8098"
+8,Australia,6447,63,3686,-25.274398,133.775136,"Country: Australia
+ Total Case:6447
+ Total Death:63
+ Total Recovered:3686"
+9,Aruba,92,1,32,12.52111,-69.968338,"Country: Aruba
+ Total Case:92
+ Total Death:1
+ Total Recovered:32"
+10,Azerbaijan,1253,13,404,40.143105,47.576927,"Country: Azerbaijan
+ Total Case:1253
+ Total Death:13
+ Total Recovered:404"
+11,Barbados,73,5,15,13.193887,-59.543198,"Country: Barbados
+ Total Case:73
+ Total Death:5
+ Total Recovered:15"
+12,Bangladesh,1231,50,49,23.684994,90.356331,"Country: Bangladesh
+ Total Case:1231
+ Total Death:50
+ Total Recovered:49"
+13,Belgium,33573,4440,7107,50.503887,4.469936,"Country: Belgium
+ Total Case:33573
+ Total Death:4440
+ Total Recovered:7107"
+14,Burkina Faso,528,30,177,12.238333,-1.561593,"Country: Burkina Faso
+ Total Case:528
+ Total Death:30
+ Total Recovered:177"
+15,Bulgaria,747,36,105,42.733883,25.48583,"Country: Bulgaria
+ Total Case:747
+ Total Death:36
+ Total Recovered:105"
+16,Bahrain,1671,7,663,25.930414,50.637772,"Country: Bahrain
+ Total Case:1671
+ Total Death:7
+ Total Recovered:663"
+17,Burundi,5,1,,-3.373056,29.918886,"Country: Burundi
+ Total Case:5
+ Total Death:1
+ Total Recovered:"
+18,Benin,35,1,18,9.30769,2.315834,"Country: Benin
+ Total Case:35
+ Total Death:1
+ Total Recovered:18"
+19,Bermuda,57,5,30,32.321384,-64.75737,"Country: Bermuda
+ Total Case:57
+ Total Death:5
+ Total Recovered:30"
+20,Brunei,136,1,108,4.535277,114.727669,"Country: Brunei
+ Total Case:136
+ Total Death:1
+ Total Recovered:108"
+21,Bolivia,397,28,7,-16.290154,-63.588653,"Country: Bolivia
+ Total Case:397
+ Total Death:28
+ Total Recovered:7"
+22,Brazil,26113,1590,14026,-14.235004,-51.92528,"Country: Brazil
+ Total Case:26113
+ Total Death:1590
+ Total Recovered:14026"
+23,Bahamas,49,8,6,25.03428,-77.39628,"Country: Bahamas
+ Total Case:49
+ Total Death:8
+ Total Recovered:6"
+24,Bhutan,5,,2,27.514162,90.433601,"Country: Bhutan
+ Total Case:5
+ Total Death:
+ Total Recovered:2"
+25,Botswana,13,1,,-22.328474,24.684866,"Country: Botswana
+ Total Case:13
+ Total Death:1
+ Total Recovered:"
+26,Belarus,3728,36,203,53.709807,27.953389,"Country: Belarus
+ Total Case:3728
+ Total Death:36
+ Total Recovered:203"
+27,Belize,18,2,,17.189877,-88.49765,"Country: Belize
+ Total Case:18
+ Total Death:2
+ Total Recovered:"
+28,Canada,27557,954,8235,56.130366,-106.346771,"Country: Canada
+ Total Case:27557
+ Total Death:954
+ Total Recovered:8235"
+29,Switzerland,26336,1226,14700,46.818188,8.227512,"Country: Switzerland
+ Total Case:26336
+ Total Death:1226
+ Total Recovered:14700"
+30,Chile,8273,94,2937,-35.675147,-71.542969,"Country: Chile
+ Total Case:8273
+ Total Death:94
+ Total Recovered:2937"
+31,Cameroon,848,17,165,7.369722,12.354722,"Country: Cameroon
+ Total Case:848
+ Total Death:17
+ Total Recovered:165"
+32,China,82295,3342,77816,35.86166,104.195397,"Country: China
+ Total Case:82295
+ Total Death:3342
+ Total Recovered:77816"
+33,Colombia,2979,127,354,4.570868,-74.297333,"Country: Colombia
+ Total Case:2979
+ Total Death:127
+ Total Recovered:354"
+34,Costa Rica,618,3,66,9.748917,-83.753428,"Country: Costa Rica
+ Total Case:618
+ Total Death:3
+ Total Recovered:66"
+35,Cuba,814,24,151,21.521757,-77.781167,"Country: Cuba
+ Total Case:814
+ Total Death:24
+ Total Recovered:151"
+36,Cyprus,715,12,65,35.126413,33.429859,"Country: Cyprus
+ Total Case:715
+ Total Death:12
+ Total Recovered:65"
+37,Germany,132747,3592,72600,51.165691,10.451526,"Country: Germany
+ Total Case:132747
+ Total Death:3592
+ Total Recovered:72600"
+38,Djibouti,435,2,71,11.825138,42.590275,"Country: Djibouti
+ Total Case:435
+ Total Death:2
+ Total Recovered:71"
+39,Denmark,6681,309,2748,56.26392,9.501785,"Country: Denmark
+ Total Case:6681
+ Total Death:309
+ Total Recovered:2748"
+40,Dominica,16,,8,15.414999,-61.370976,"Country: Dominica
+ Total Case:16
+ Total Death:
+ Total Recovered:8"
+41,Dominican Republic,3614,189,208,18.735693,-70.162651,"Country: Dominican Republic
+ Total Case:3614
+ Total Death:189
+ Total Recovered:208"
+42,Algeria,2160,336,708,28.033886,1.659626,"Country: Algeria
+ Total Case:2160
+ Total Death:336
+ Total Recovered:708"
+43,Ecuador,7603,369,696,-1.831239,-78.183406,"Country: Ecuador
+ Total Case:7603
+ Total Death:369
+ Total Recovered:696"
+44,Estonia,1400,35,117,58.595272,25.013607,"Country: Estonia
+ Total Case:1400
+ Total Death:35
+ Total Recovered:117"
+45,Egypt,2350,178,589,26.820553,30.802498,"Country: Egypt
+ Total Case:2350
+ Total Death:178
+ Total Recovered:589"
+46,Western Sahara,6,,,24.215527,-12.885834,"Country: Western Sahara
+ Total Case:6
+ Total Death:
+ Total Recovered:"
+47,Eritrea,35,,,15.179384,39.782334,"Country: Eritrea
+ Total Case:35
+ Total Death:
+ Total Recovered:"
+48,Spain,177633,18579,70853,40.463667,-3.74922,"Country: Spain
+ Total Case:177633
+ Total Death:18579
+ Total Recovered:70853"
+49,Ethiopia,85,3,15,9.145,40.489673,"Country: Ethiopia
+ Total Case:85
+ Total Death:3
+ Total Recovered:15"
+50,Finland,3237,72,300,61.92411,25.748151,"Country: Finland
+ Total Case:3237
+ Total Death:72
+ Total Recovered:300"
+51,Fiji,16,,,-16.578193,179.414413,"Country: Fiji
+ Total Case:16
+ Total Death:
+ Total Recovered:"
+52,France,143303,15729,28805,46.227638,2.213749,"Country: France
+ Total Case:143303
+ Total Death:15729
+ Total Recovered:28805"
+53,Gabon,80,1,4,-0.803689,11.609444,"Country: Gabon
+ Total Case:80
+ Total Death:1
+ Total Recovered:4"
+54,UK,98476,12868,N/A,55.378051,-3.435973,"Country: UK
+ Total Case:98476
+ Total Death:12868
+ Total Recovered:N/A"
+55,Grenada,14,,,12.262776,-61.604171,"Country: Grenada
+ Total Case:14
+ Total Death:
+ Total Recovered:"
+56,Georgia,306,3,71,42.315407,43.356892,"Country: Georgia
+ Total Case:306
+ Total Death:3
+ Total Recovered:71"
+57,French Guiana,86,,51,3.933889,-53.125782,"Country: French Guiana
+ Total Case:86
+ Total Death:
+ Total Recovered:51"
+58,Ghana,636,8,17,7.946527,-1.023194,"Country: Ghana
+ Total Case:636
+ Total Death:8
+ Total Recovered:17"
+59,Gibraltar,129,,104,36.137741,-5.345374,"Country: Gibraltar
+ Total Case:129
+ Total Death:
+ Total Recovered:104"
+60,Greenland,11,,11,71.706936,-42.604303,"Country: Greenland
+ Total Case:11
+ Total Death:
+ Total Recovered:11"
+61,Gambia,9,1,2,13.443182,-15.310139,"Country: Gambia
+ Total Case:9
+ Total Death:1
+ Total Recovered:2"
+62,Guinea,404,1,31,9.945587,-9.696645,"Country: Guinea
+ Total Case:404
+ Total Death:1
+ Total Recovered:31"
+63,Guadeloupe,145,8,67,16.995971,-62.067641,"Country: Guadeloupe
+ Total Case:145
+ Total Death:8
+ Total Recovered:67"
+64,Equatorial Guinea,51,,4,1.650801,10.267895,"Country: Equatorial Guinea
+ Total Case:51
+ Total Death:
+ Total Recovered:4"
+65,Greece,2192,102,269,39.074208,21.824312,"Country: Greece
+ Total Case:2192
+ Total Death:102
+ Total Recovered:269"
+66,Guatemala,180,5,19,15.783471,-90.230759,"Country: Guatemala
+ Total Case:180
+ Total Death:5
+ Total Recovered:19"
+67,Guinea-Bissau,43,,,11.803749,-15.180413,"Country: Guinea-Bissau
+ Total Case:43
+ Total Death:
+ Total Recovered:"
+68,Guyana,48,6,8,4.860416,-58.93018,"Country: Guyana
+ Total Case:48
+ Total Death:6
+ Total Recovered:8"
+69,Hong Kong,1017,4,459,22.396428,114.109497,"Country: Hong Kong
+ Total Case:1017
+ Total Death:4
+ Total Recovered:459"
+70,Honduras,419,31,9,15.199999,-86.241905,"Country: Honduras
+ Total Case:419
+ Total Death:31
+ Total Recovered:9"
+71,Croatia,1741,34,473,45.1,15.2,"Country: Croatia
+ Total Case:1741
+ Total Death:34
+ Total Recovered:473"
+72,Haiti,40,3,,18.971187,-72.285215,"Country: Haiti
+ Total Case:40
+ Total Death:3
+ Total Recovered:"
+73,Hungary,1579,134,192,47.162494,19.503304,"Country: Hungary
+ Total Case:1579
+ Total Death:134
+ Total Recovered:192"
+74,Indonesia,5136,469,446,-0.789275,113.921327,"Country: Indonesia
+ Total Case:5136
+ Total Death:469
+ Total Recovered:446"
+75,Ireland,11479,406,77,53.41291,-8.24389,"Country: Ireland
+ Total Case:11479
+ Total Death:406
+ Total Recovered:77"
+76,Israel,12200,126,2309,31.046051,34.851612,"Country: Israel
+ Total Case:12200
+ Total Death:126
+ Total Recovered:2309"
+77,India,12320,405,1432,20.593684,78.96288,"Country: India
+ Total Case:12320
+ Total Death:405
+ Total Recovered:1432"
+78,Iraq,1415,79,812,33.223191,43.679291,"Country: Iraq
+ Total Case:1415
+ Total Death:79
+ Total Recovered:812"
+79,Iran,76389,4777,49933,32.427908,53.688046,"Country: Iran
+ Total Case:76389
+ Total Death:4777
+ Total Recovered:49933"
+80,Iceland,1727,8,1077,64.963051,-19.020835,"Country: Iceland
+ Total Case:1727
+ Total Death:8
+ Total Recovered:1077"
+81,Italy,165155,21645,38092,41.87194,12.56738,"Country: Italy
+ Total Case:165155
+ Total Death:21645
+ Total Recovered:38092"
+82,Jamaica,105,5,21,18.109581,-77.297508,"Country: Jamaica
+ Total Case:105
+ Total Death:5
+ Total Recovered:21"
+83,Jordan,397,7,235,30.585164,36.238414,"Country: Jordan
+ Total Case:397
+ Total Death:7
+ Total Recovered:235"
+84,Japan,8100,146,853,36.204824,138.252924,"Country: Japan
+ Total Case:8100
+ Total Death:146
+ Total Recovered:853"
+85,Kenya,225,10,53,-0.023559,37.906193,"Country: Kenya
+ Total Case:225
+ Total Death:10
+ Total Recovered:53"
+86,Kyrgyzstan,449,5,78,41.20438,74.766098,"Country: Kyrgyzstan
+ Total Case:449
+ Total Death:5
+ Total Recovered:78"
+87,Cambodia,122,,96,12.565679,104.990963,"Country: Cambodia
+ Total Case:122
+ Total Death:
+ Total Recovered:96"
+88,Kuwait,1405,3,206,29.31166,47.481766,"Country: Kuwait
+ Total Case:1405
+ Total Death:3
+ Total Recovered:206"
+89,Cayman Islands,54,1,6,19.513469,-80.566956,"Country: Cayman Islands
+ Total Case:54
+ Total Death:1
+ Total Recovered:6"
+90,Kazakhstan,1290,16,240,48.019573,66.923684,"Country: Kazakhstan
+ Total Case:1290
+ Total Death:16
+ Total Recovered:240"
+91,Laos,19,,1,19.85627,102.495496,"Country: Laos
+ Total Case:19
+ Total Death:
+ Total Recovered:1"
+92,Lebanon,658,21,81,33.854721,35.862285,"Country: Lebanon
+ Total Case:658
+ Total Death:21
+ Total Recovered:81"
+93,Saint Lucia,15,,11,13.909444,-60.978893,"Country: Saint Lucia
+ Total Case:15
+ Total Death:
+ Total Recovered:11"
+94,Liechtenstein,79,1,55,47.166,9.555373,"Country: Liechtenstein
+ Total Case:79
+ Total Death:1
+ Total Recovered:55"
+95,Sri Lanka,237,7,63,7.873054,80.771797,"Country: Sri Lanka
+ Total Case:237
+ Total Death:7
+ Total Recovered:63"
+96,Liberia,59,6,4,6.428055,-9.429499,"Country: Liberia
+ Total Case:59
+ Total Death:6
+ Total Recovered:4"
+97,Lithuania,1091,30,138,55.169438,23.881275,"Country: Lithuania
+ Total Case:1091
+ Total Death:30
+ Total Recovered:138"
+98,Luxembourg,3307,67,500,49.815273,6.129583,"Country: Luxembourg
+ Total Case:3307
+ Total Death:67
+ Total Recovered:500"
+99,Latvia,666,5,44,56.879635,24.603189,"Country: Latvia
+ Total Case:666
+ Total Death:5
+ Total Recovered:44"
+100,Libya,35,1,9,26.3351,17.228331,"Country: Libya
+ Total Case:35
+ Total Death:1
+ Total Recovered:9"
+101,Morocco,1988,127,218,31.791702,-7.09262,"Country: Morocco
+ Total Case:1988
+ Total Death:127
+ Total Recovered:218"
+102,Monaco,93,1,6,43.750298,7.412841,"Country: Monaco
+ Total Case:93
+ Total Death:1
+ Total Recovered:6"
+103,Moldova,2049,44,171,47.411631,28.369885,"Country: Moldova
+ Total Case:2049
+ Total Death:44
+ Total Recovered:171"
+104,Montenegro,288,4,55,42.708678,19.37439,"Country: Montenegro
+ Total Case:288
+ Total Death:4
+ Total Recovered:55"
+105,Madagascar,110,,29,-18.766947,46.869107,"Country: Madagascar
+ Total Case:110
+ Total Death:
+ Total Recovered:29"
+106,Mali,148,13,34,17.570692,-3.996166,"Country: Mali
+ Total Case:148
+ Total Death:13
+ Total Recovered:34"
+107,Mongolia,30,,5,46.862496,103.846656,"Country: Mongolia
+ Total Case:30
+ Total Death:
+ Total Recovered:5"
+108,Martinique,158,8,73,14.641528,-61.024174,"Country: Martinique
+ Total Case:158
+ Total Death:8
+ Total Recovered:73"
+109,Mauritania,7,1,2,21.00789,-10.940835,"Country: Mauritania
+ Total Case:7
+ Total Death:1
+ Total Recovered:2"
+110,Montserrat,11,,1,16.742498,-62.187366,"Country: Montserrat
+ Total Case:11
+ Total Death:
+ Total Recovered:1"
+111,Malta,399,3,44,35.937496,14.375416,"Country: Malta
+ Total Case:399
+ Total Death:3
+ Total Recovered:44"
+112,Mauritius,324,9,65,-20.348404,57.552152,"Country: Mauritius
+ Total Case:324
+ Total Death:9
+ Total Recovered:65"
+113,Maldives,21,,16,3.202778,73.22068,"Country: Maldives
+ Total Case:21
+ Total Death:
+ Total Recovered:16"
+114,Malawi,16,2,,-13.254308,34.301525,"Country: Malawi
+ Total Case:16
+ Total Death:2
+ Total Recovered:"
+115,Mexico,5399,406,2125,23.634501,-102.552784,"Country: Mexico
+ Total Case:5399
+ Total Death:406
+ Total Recovered:2125"
+116,Malaysia,5072,83,2647,4.210484,101.975766,"Country: Malaysia
+ Total Case:5072
+ Total Death:83
+ Total Recovered:2647"
+117,Mozambique,29,,2,-18.665695,35.529562,"Country: Mozambique
+ Total Case:29
+ Total Death:
+ Total Recovered:2"
+118,Namibia,16,,3,-22.95764,18.49041,"Country: Namibia
+ Total Case:16
+ Total Death:
+ Total Recovered:3"
+119,New Caledonia,18,,1,-20.904305,165.618042,"Country: New Caledonia
+ Total Case:18
+ Total Death:
+ Total Recovered:1"
+120,Niger,570,14,90,17.607789,8.081666,"Country: Niger
+ Total Case:570
+ Total Death:14
+ Total Recovered:90"
+121,Nigeria,373,11,99,9.081999,8.675277,"Country: Nigeria
+ Total Case:373
+ Total Death:11
+ Total Recovered:99"
+122,Nicaragua,9,1,4,12.865416,-85.207229,"Country: Nicaragua
+ Total Case:9
+ Total Death:1
+ Total Recovered:4"
+123,Netherlands,28153,3134,250,52.132633,5.291266,"Country: Netherlands
+ Total Case:28153
+ Total Death:3134
+ Total Recovered:250"
+124,Norway,6740,145,32,60.472024,8.468946,"Country: Norway
+ Total Case:6740
+ Total Death:145
+ Total Recovered:32"
+125,Nepal,16,,1,28.394857,84.124008,"Country: Nepal
+ Total Case:16
+ Total Death:
+ Total Recovered:1"
+126,New Zealand,1386,9,728,-40.900557,174.885971,"Country: New Zealand
+ Total Case:1386
+ Total Death:9
+ Total Recovered:728"
+127,Oman,910,4,131,21.512583,55.923255,"Country: Oman
+ Total Case:910
+ Total Death:4
+ Total Recovered:131"
+128,Panama,3574,95,72,8.537981,-80.782127,"Country: Panama
+ Total Case:3574
+ Total Death:95
+ Total Recovered:72"
+129,Peru,10303,230,2869,-9.189967,-75.015152,"Country: Peru
+ Total Case:10303
+ Total Death:230
+ Total Recovered:2869"
+130,French Polynesia,55,,,-17.679742,-149.406843,"Country: French Polynesia
+ Total Case:55
+ Total Death:
+ Total Recovered:"
+131,Papua New Guinea,2,,,-6.314993,143.95555,"Country: Papua New Guinea
+ Total Case:2
+ Total Death:
+ Total Recovered:"
+132,Philippines,5453,349,353,12.879721,121.774017,"Country: Philippines
+ Total Case:5453
+ Total Death:349
+ Total Recovered:353"
+133,Pakistan,5988,107,1446,30.375321,69.345116,"Country: Pakistan
+ Total Case:5988
+ Total Death:107
+ Total Recovered:1446"
+134,Poland,7582,286,668,51.919438,19.145136,"Country: Poland
+ Total Case:7582
+ Total Death:286
+ Total Recovered:668"
+135,Portugal,18091,599,383,39.399872,-8.224454,"Country: Portugal
+ Total Case:18091
+ Total Death:599
+ Total Recovered:383"
+136,Paraguay,161,8,23,-23.442503,-58.443832,"Country: Paraguay
+ Total Case:161
+ Total Death:8
+ Total Recovered:23"
+137,Qatar,3711,7,406,25.354826,51.183884,"Country: Qatar
+ Total Case:3711
+ Total Death:7
+ Total Recovered:406"
+138,Réunion,391,,40,-21.115141,55.536384,"Country: Réunion
+ Total Case:391
+ Total Death:
+ Total Recovered:40"
+139,Romania,7216,362,1217,45.943161,24.96676,"Country: Romania
+ Total Case:7216
+ Total Death:362
+ Total Recovered:1217"
+140,Serbia,4873,99,400,44.016521,21.005859,"Country: Serbia
+ Total Case:4873
+ Total Death:99
+ Total Recovered:400"
+141,Russia,24490,198,1986,61.52401,105.318756,"Country: Russia
+ Total Case:24490
+ Total Death:198
+ Total Recovered:1986"
+142,Rwanda,134,,49,-1.940278,29.873888,"Country: Rwanda
+ Total Case:134
+ Total Death:
+ Total Recovered:49"
+143,Saudi Arabia,5862,79,931,23.885942,45.079162,"Country: Saudi Arabia
+ Total Case:5862
+ Total Death:79
+ Total Recovered:931"
+144,Seychelles,11,,,-4.679574,55.491977,"Country: Seychelles
+ Total Case:11
+ Total Death:
+ Total Recovered:"
+145,Sudan,32,5,4,12.862807,30.217636,"Country: Sudan
+ Total Case:32
+ Total Death:5
+ Total Recovered:4"
+146,Sweden,11927,1203,381,60.128161,18.643501,"Country: Sweden
+ Total Case:11927
+ Total Death:1203
+ Total Recovered:381"
+147,Singapore,3699,10,652,1.352083,103.819836,"Country: Singapore
+ Total Case:3699
+ Total Death:10
+ Total Recovered:652"
+148,Slovenia,1248,61,165,46.151241,14.995463,"Country: Slovenia
+ Total Case:1248
+ Total Death:61
+ Total Recovered:165"
+149,Slovakia,863,6,151,48.669026,19.699024,"Country: Slovakia
+ Total Case:863
+ Total Death:6
+ Total Recovered:151"
+150,Sierra Leone,13,,,8.460555,-11.779889,"Country: Sierra Leone
+ Total Case:13
+ Total Death:
+ Total Recovered:"
+151,San Marino,372,36,53,43.94236,12.457777,"Country: San Marino
+ Total Case:372
+ Total Death:36
+ Total Recovered:53"
+152,Senegal,314,2,190,14.497401,-14.452362,"Country: Senegal
+ Total Case:314
+ Total Death:2
+ Total Recovered:190"
+153,Somalia,60,2,2,5.152149,46.199616,"Country: Somalia
+ Total Case:60
+ Total Death:2
+ Total Recovered:2"
+154,Suriname,10,1,6,3.919305,-56.027783,"Country: Suriname
+ Total Case:10
+ Total Death:1
+ Total Recovered:6"
+155,El Salvador,159,6,30,13.794185,-88.89653,"Country: El Salvador
+ Total Case:159
+ Total Death:6
+ Total Recovered:30"
+156,Syria,29,2,5,34.802075,38.996815,"Country: Syria
+ Total Case:29
+ Total Death:2
+ Total Recovered:5"
+157,Chad,23,,2,15.454166,18.732207,"Country: Chad
+ Total Case:23
+ Total Death:
+ Total Recovered:2"
+158,Togo,81,3,35,8.619543,0.824782,"Country: Togo
+ Total Case:81
+ Total Death:3
+ Total Recovered:35"
+159,Thailand,2643,43,1497,15.870032,100.992541,"Country: Thailand
+ Total Case:2643
+ Total Death:43
+ Total Recovered:1497"
+160,Timor-Leste,8,,1,-8.874217,125.727539,"Country: Timor-Leste
+ Total Case:8
+ Total Death:
+ Total Recovered:1"
+161,Tunisia,747,34,43,33.886917,9.537499,"Country: Tunisia
+ Total Case:747
+ Total Death:34
+ Total Recovered:43"
+162,Turkey,65111,1403,4799,38.963745,35.243322,"Country: Turkey
+ Total Case:65111
+ Total Death:1403
+ Total Recovered:4799"
+163,Taiwan,395,6,137,23.69781,120.960515,"Country: Taiwan
+ Total Case:395
+ Total Death:6
+ Total Recovered:137"
+164,Tanzania,88,4,11,-6.369028,34.888822,"Country: Tanzania
+ Total Case:88
+ Total Death:4
+ Total Recovered:11"
+165,Ukraine,3764,108,143,48.379433,31.16558,"Country: Ukraine
+ Total Case:3764
+ Total Death:108
+ Total Recovered:143"
+166,Uganda,55,,12,1.373333,32.290275,"Country: Uganda
+ Total Case:55
+ Total Death:
+ Total Recovered:12"
+167,Uruguay,492,8,260,-32.522779,-55.765835,"Country: Uruguay
+ Total Case:492
+ Total Death:8
+ Total Recovered:260"
+168,Uzbekistan,1275,4,107,41.377491,64.585262,"Country: Uzbekistan
+ Total Case:1275
+ Total Death:4
+ Total Recovered:107"
+169,Vatican City,8,,2,41.902916,12.453389,"Country: Vatican City
+ Total Case:8
+ Total Death:
+ Total Recovered:2"
+170,Venezuela,197,9,111,6.42375,-66.58973,"Country: Venezuela
+ Total Case:197
+ Total Death:9
+ Total Recovered:111"
+171,British Virgin Islands,3,,2,18.420695,-64.639968,"Country: British Virgin Islands
+ Total Case:3
+ Total Death:
+ Total Recovered:2"
+172,Vietnam,267,,171,14.058324,108.277199,"Country: Vietnam
+ Total Case:267
+ Total Death:
+ Total Recovered:171"
+173,Yemen,1,,,15.552727,48.516388,"Country: Yemen
+ Total Case:1
+ Total Death:
+ Total Recovered:"
+174,Mayotte,217,3,69,-12.8275,45.166244,"Country: Mayotte
+ Total Case:217
+ Total Death:3
+ Total Recovered:69"
+175,South Africa,2506,27,410,-30.559482,22.937506,"Country: South Africa
+ Total Case:2506
+ Total Death:27
+ Total Recovered:410"
+176,Zambia,48,2,30,-13.133897,27.849332,"Country: Zambia
+ Total Case:48
+ Total Death:2
+ Total Recovered:30"
+177,Zimbabwe,18,3,1,-19.015438,29.154857,"Country: Zimbabwe
+ Total Case:18
+ Total Death:3
+ Total Recovered:1"
+178,USA,619331,27176,47069,37.09024,-95.712891,"Country: USA
+ Total Case:619331
+ Total Death:27176
+ Total Recovered:47069
+"
+179,UK,98476,12868,N/A,55.378051,-3.435973,"Country: UK
+ Total Case:98476
+ Total Death:12868
+ Total Recovered:N/A
+"
