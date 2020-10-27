@@ -7,7 +7,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 colorama==0.4.1
-cryptography==2.9
+cryptography==3.2
 cycler==0.10.0
 Flask==1.1.1
 Flask-Bcrypt==0.7.1
